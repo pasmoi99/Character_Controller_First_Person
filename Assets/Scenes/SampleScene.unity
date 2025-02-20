@@ -404,6 +404,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fd438fc6783e8419a71b7fe35078eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _cameraSpeed: 2.69
 --- !u!1 &1001855662
 GameObject:
   m_ObjectHideFlags: 0
@@ -655,6 +656,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MainCharacter: {fileID: 1533786798}
+  Camera: {fileID: 963194229}
 --- !u!4 &1511317276
 Transform:
   m_ObjectHideFlags: 0
